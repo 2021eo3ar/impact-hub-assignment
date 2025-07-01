@@ -1,6 +1,9 @@
-# Mini Social Gaming App
-### [live Url of the project](https://impact-hub-assignment-jt2g.vercel.app/)
+### live Url of project - 🔗[live Url of the project](https://impact-hub-assignment-jt2g.vercel.app/)
 
+## Here is the pdf file for 2nd part of assignment - 🔗[pdf link](https://drive.google.com/file/d/1nSjChvnhYPMxydNQtF66ruG-vNh91upy/view?usp=sharing)
+
+# Mini Social Gaming App
+ 
 A modern, interactive gaming platform that combines multiplayer games with a comprehensive wallet system. Built with React, TypeScript, and Tailwind CSS, this application demonstrates advanced state management, real-time UI updates, and professional-grade user experience design.
 
 ## ✨ Features
